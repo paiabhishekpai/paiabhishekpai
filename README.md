@@ -1,6 +1,6 @@
-## Hi there 👋,
-## I am Abhishek U Pai
-# A passionate developer from India
+## Hi there 👋, 
+<center># I am Abhishek U Pai</center>
+<center>## A passionate developer from India</center>
 
 # 💫 About Me:
 🔭 I’m currently working on front end projects<br>🌱 I’m currently learning Javascript<br> <br>Reach out to me at abhishekupai1124@gmail.com
