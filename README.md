@@ -3,7 +3,7 @@
 ## A passionate developer from India
 
 # 💫 About Me:
-🔭 I’m currently working on front end projects<br>🌱 I’m currently learning Javascript<br> <br>Reach out to me at abhishekupai1124@gmail.com
+🔭 I’m currently working on full stack projects <br>🌱 I’m currently learning Javascript, React and Express. <br> <br>Reach out to me at abhishekupai1124@gmail.com 
 
 
 ## 🌐 Socials:
